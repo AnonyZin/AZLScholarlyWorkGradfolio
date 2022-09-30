@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Alessandra Zinicola Lopez
+description: Texts and Technology PhD Student | University of Central Florida | Made of All Work
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /AZLScholarlyWorkGradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -13,15 +13,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
+twitter: "amadeofallwork"
+linkedin: "azlopez"
 stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+github: "anonyzin"
+orcid: "0000-0002-5333-742X"
+instagram: "madeofallwork"
 
 
 # Markdown
