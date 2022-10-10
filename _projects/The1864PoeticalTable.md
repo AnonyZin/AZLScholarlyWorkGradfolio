@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 1864 Poetical Table d'Hôte
-description: A choose-your-own dining poetry adventure created with Twine.
+description: A choose-your-own dining poetry adventure created with Twine
 ---
 
 ## Based on A Poetical Cook-Book published in 1864 by Maria J. Moss
