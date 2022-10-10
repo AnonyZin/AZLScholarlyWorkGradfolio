@@ -46,10 +46,10 @@ collections:
     order:
       - Commerdingers.md
       - The1864PoeticalTable.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - ZinicolasJewelry.md
+      - AmeliaSimmonsBot.md
+      - ArchiveCookingGames.md
+      - MangoesMelons.md
 
 sass:
   sass_dir: /assets/css/_sass
