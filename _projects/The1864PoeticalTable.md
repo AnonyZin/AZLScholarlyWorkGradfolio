@@ -10,7 +10,7 @@ This game allows you to read through historical 19th century recipes in rhyme cu
 
 [Play The 1864 Poetical Table d'Hôte](https://madeofallwork.itch.io/the-1864-poetical-table)
 
-Paragraphs are separated by a blank line.
+![Welcome To The Table](/AZLScholarlyWorkGradfolio/assets/images/ImageTabledHote.jpg "Click This Image To Access The 1864 Poetrical Table d'Hote")
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
