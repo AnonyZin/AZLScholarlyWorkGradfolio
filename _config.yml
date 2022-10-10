@@ -15,7 +15,6 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 twitter: "amadeofallwork"
 linkedin: "azlopez"
-stackoverflow: "#"
 github: "anonyzin"
 orcid: "0000-0002-5333-742X"
 instagram: "madeofallwork"
