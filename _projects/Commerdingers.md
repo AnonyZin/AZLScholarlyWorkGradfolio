@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Commerdingers Cocktails and Domestic Drinks
-description: Commerdinger's is a blog containing recipes of liquid antiquity selected from publications of the American Gilded Age and Progressive Era.
+description: Commerdinger's is a blog containing recipes of liquid antiquity selected from publications of the American Gilded Age and Progressive Era
 ---
 ## A preservation and modern interpretation of bygone beverages
 
