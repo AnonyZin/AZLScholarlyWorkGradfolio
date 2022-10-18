@@ -49,7 +49,6 @@ collections:
       - ZinicolasJewelry.md
       - AmeliaSimmonsBot.md
       - ArchiveCookingGames.md
-      - MangoesMelons.md
 
 sass:
   sass_dir: /assets/css/_sass

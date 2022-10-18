@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: post
 title:  "Recipe for an Early American Meal with a Side of History"
 ---
 

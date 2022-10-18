@@ -79,11 +79,11 @@ Technical Writing for the Professional 2022
 
 University of Central Florida
 
-Tools for the Digital Humanities 2022
+> Tools for the Digital Humanities 2022
 
 Boise State University
 
-Topics in Writing, Rhetoric, and Technical Communication 2022
+> Topics in Writing, Rhetoric, and Technical Communication 2022
 
 # Service (University)
 
@@ -121,28 +121,28 @@ National Pie Championships, Judge, 2016-2020
 
 The Bibliographical Society of America, 2022
 
-Member
+> Member
 
 The Association for Living History, Farm and Agricultural Museums, 2022
 -Present
 
-Member
+> Member
 
 Oxford English Dictionary Researchers Advisory Group, 2021-Present
 
-Member
+> Member
 
 Daughters of the American Revolution, 2020-Present
 
-Registrar, Constellation Chapter
+> Registrar, Constellation Chapter
 
 Association for Computing Machinery, 2021-Present
 
-Member
+> Member
 
 Society for Technical Communication, 2020-2022
 
-Member
+> Member
 
 # Technical Skills
 
