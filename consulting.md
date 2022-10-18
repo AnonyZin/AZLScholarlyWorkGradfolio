@@ -1,7 +1,7 @@
 ---
 layout: about
-permalink: /cv/
-title: CV
+permalink: /consulting/
+title: Consulting
 published: true
 ---
 
