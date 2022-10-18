@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home They Brought Her Warrior Dead 
+title: "To Make Mangoes of Melons - Using the Evolution of Form and Senses to Understand Historical Cookbooks"
 ---
 
 Home they brought her warrior dead:  

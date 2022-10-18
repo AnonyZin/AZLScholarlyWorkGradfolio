@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Jelly-Fish
+title:  "Baking Bread with Domestic Technical Illustration - 19th-21st Centuries"
 ---
 
 Visible, invisible,  
