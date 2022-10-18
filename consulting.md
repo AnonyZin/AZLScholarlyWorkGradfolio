@@ -5,7 +5,7 @@ title: Consulting
 published: true
 ---
 
-Historical Food & Beverage Recipe Research & Development
+#### Historical Food & Beverage Recipe Research & Development
 
 As a doctoral student in an innovative interdisciplinary program within the Arts and Humanities that merges texts and technology, I am able to research, interpret, and design individual historically accurate meals, desserts, and drinks from the 1700s-1960s for your program, restaurant, bar, or event.
 
