@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: clean
 title:  "Another sample post"
 ---
 
