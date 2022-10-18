@@ -5,8 +5,6 @@ title: CV
 published: true
 ---
 
-Alessandra Zinicola Lopez
-
 # Education
 
 **PhD** University of Central Florida, Texts and Technology June
